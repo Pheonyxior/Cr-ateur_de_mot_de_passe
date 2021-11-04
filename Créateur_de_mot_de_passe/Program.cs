@@ -13,9 +13,9 @@ namespace Créateur_de_mot_de_passe
 
 
             int nombre_de_caractères = 0;          // Déclare la variable
-            int nombre_de_mdp = 0;                //
+            int nombre_de_mdp = 0;                 //
             int option_numéro = 0;                 // 
-            int compteur = 0;                     //            
+            int compteur = 0;                      //            
 
 
             do                                     // Fait passer un message et demande une entrée de l'utilisateur. Boucle tant qu'il ne s'agit pas de l'entrée désirée.
